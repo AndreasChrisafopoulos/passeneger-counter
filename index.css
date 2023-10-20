@@ -1,0 +1,64 @@
+body {
+    background-image: url("jonas-xxicjt3Utm4-unsplash.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    
+}
+
+
+
+h1 {
+    color: white;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: red;
+    text-shadow: 0px 0px 105px white;
+}
+
+h2 {
+    display: block;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 105px white;
+   
+}
+
+button {
+    border: 3px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #2C2891;
+}
+#increment-btn:hover{
+    background: #6F00FF;
+    font-weight: 750;
+}
+
+#save-btn {
+    background: #DC143C;
+}
+#save-btn:hover {
+    background: red;
+    font-weight: 750;
+}
+
+#save-el {
+    color: white;
+    font-weight: bold;
+    text-shadow: 0px 0px 105px white;
+    background-color: red;
+}
+
